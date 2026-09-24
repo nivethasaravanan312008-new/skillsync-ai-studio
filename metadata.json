@@ -1,0 +1,6 @@
+{
+  "name": "SkillSync Intelligence Platform",
+  "description": "National Industry-Skill-Training Intelligence Platform aligning market demands, curriculum gaps, training capacity, and career pathways.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
